@@ -1,0 +1,14 @@
+C:\Users\MohammadPC\source\repos\Contacts\Contacts.Contracts\bin\Debug\netcoreapp2.2\Contacts.Contracts.deps.json
+C:\Users\MohammadPC\source\repos\Contacts\Contacts.Contracts\bin\Debug\netcoreapp2.2\Contacts.Contracts.dll
+C:\Users\MohammadPC\source\repos\Contacts\Contacts.Contracts\bin\Debug\netcoreapp2.2\Contacts.Contracts.pdb
+C:\Users\MohammadPC\source\repos\Contacts\Contacts.Contracts\obj\Debug\netcoreapp2.2\Contacts.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\MohammadPC\source\repos\Contacts\Contacts.Contracts\obj\Debug\netcoreapp2.2\Contacts.Contracts.AssemblyInfoInputs.cache
+C:\Users\MohammadPC\source\repos\Contacts\Contacts.Contracts\obj\Debug\netcoreapp2.2\Contacts.Contracts.AssemblyInfo.cs
+C:\Users\MohammadPC\source\repos\Contacts\Contacts.Contracts\obj\Debug\netcoreapp2.2\Contacts.Contracts.dll
+C:\Users\MohammadPC\source\repos\Contacts\Contacts.Contracts\obj\Debug\netcoreapp2.2\Contacts.Contracts.pdb
+C:\Users\MohammadPC\source\repos\Contacts\Contacts.Contracts\obj\Debug\netcoreapp2.2\Contacts.Contracts.csprojAssemblyReference.cache
+C:\Users\MohammadPC\source\repos\Contacts\Contacts.Contracts\bin\Debug\netcoreapp2.2\Contacts.DAL.dll
+C:\Users\MohammadPC\source\repos\Contacts\Contacts.Contracts\bin\Debug\netcoreapp2.2\Contacts.DomainModel.dll
+C:\Users\MohammadPC\source\repos\Contacts\Contacts.Contracts\bin\Debug\netcoreapp2.2\Contacts.DAL.pdb
+C:\Users\MohammadPC\source\repos\Contacts\Contacts.Contracts\bin\Debug\netcoreapp2.2\Contacts.DomainModel.pdb
+C:\Users\MohammadPC\source\repos\Contacts\Contacts.Contracts\obj\Debug\netcoreapp2.2\Contacts.Contracts.csproj.CopyComplete

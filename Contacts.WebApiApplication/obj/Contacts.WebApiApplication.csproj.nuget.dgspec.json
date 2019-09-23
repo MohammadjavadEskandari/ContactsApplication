@@ -1,0 +1,380 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\MohammadPC\\source\\repos\\Contacts\\Contacts.WebApiApplication\\Contacts.WebApiApplication.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\MohammadPC\\source\\repos\\Contacts\\Contacts.ApplicationServices\\Contacts.ApplicationServices.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\MohammadPC\\source\\repos\\Contacts\\Contacts.ApplicationServices\\Contacts.ApplicationServices.csproj",
+        "projectName": "Contacts.ApplicationServices",
+        "projectPath": "C:\\Users\\MohammadPC\\source\\repos\\Contacts\\Contacts.ApplicationServices\\Contacts.ApplicationServices.csproj",
+        "packagesPath": "C:\\Users\\MohammadPC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MohammadPC\\source\\repos\\Contacts\\Contacts.ApplicationServices\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\MohammadPC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\MohammadPC\\source\\repos\\Contacts\\Contacts.Contracts\\Contacts.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\MohammadPC\\source\\repos\\Contacts\\Contacts.Contracts\\Contacts.Contracts.csproj",
+        "projectName": "Contacts.Contracts",
+        "projectPath": "C:\\Users\\MohammadPC\\source\\repos\\Contacts\\Contacts.Contracts\\Contacts.Contracts.csproj",
+        "packagesPath": "C:\\Users\\MohammadPC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MohammadPC\\source\\repos\\Contacts\\Contacts.Contracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\MohammadPC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\MohammadPC\\source\\repos\\Contacts\\Contacts.DAL\\Contacts.DAL.csproj": {
+                "projectPath": "C:\\Users\\MohammadPC\\source\\repos\\Contacts\\Contacts.DAL\\Contacts.DAL.csproj"
+              },
+              "C:\\Users\\MohammadPC\\source\\repos\\Contacts\\Contacts.DomainModel\\Contacts.DomainModel.csproj": {
+                "projectPath": "C:\\Users\\MohammadPC\\source\\repos\\Contacts\\Contacts.DomainModel\\Contacts.DomainModel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\MohammadPC\\source\\repos\\Contacts\\Contacts.DAL\\Contacts.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\MohammadPC\\source\\repos\\Contacts\\Contacts.DAL\\Contacts.DAL.csproj",
+        "projectName": "Contacts.DAL",
+        "projectPath": "C:\\Users\\MohammadPC\\source\\repos\\Contacts\\Contacts.DAL\\Contacts.DAL.csproj",
+        "packagesPath": "C:\\Users\\MohammadPC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MohammadPC\\source\\repos\\Contacts\\Contacts.DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\MohammadPC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\MohammadPC\\source\\repos\\Contacts\\Contacts.DomainModel\\Contacts.DomainModel.csproj": {
+                "projectPath": "C:\\Users\\MohammadPC\\source\\repos\\Contacts\\Contacts.DomainModel\\Contacts.DomainModel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\MohammadPC\\source\\repos\\Contacts\\Contacts.DomainModel\\Contacts.DomainModel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\MohammadPC\\source\\repos\\Contacts\\Contacts.DomainModel\\Contacts.DomainModel.csproj",
+        "projectName": "Contacts.DomainModel",
+        "projectPath": "C:\\Users\\MohammadPC\\source\\repos\\Contacts\\Contacts.DomainModel\\Contacts.DomainModel.csproj",
+        "packagesPath": "C:\\Users\\MohammadPC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MohammadPC\\source\\repos\\Contacts\\Contacts.DomainModel\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\MohammadPC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\MohammadPC\\source\\repos\\Contacts\\Contacts.DomainServices\\Contacts.DomainServices.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\MohammadPC\\source\\repos\\Contacts\\Contacts.DomainServices\\Contacts.DomainServices.csproj",
+        "projectName": "Contacts.DomainServices",
+        "projectPath": "C:\\Users\\MohammadPC\\source\\repos\\Contacts\\Contacts.DomainServices\\Contacts.DomainServices.csproj",
+        "packagesPath": "C:\\Users\\MohammadPC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MohammadPC\\source\\repos\\Contacts\\Contacts.DomainServices\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\MohammadPC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\MohammadPC\\source\\repos\\Contacts\\Contacts.WebApiApplication\\Contacts.WebApiApplication.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\MohammadPC\\source\\repos\\Contacts\\Contacts.WebApiApplication\\Contacts.WebApiApplication.csproj",
+        "projectName": "Contacts.WebApiApplication",
+        "projectPath": "C:\\Users\\MohammadPC\\source\\repos\\Contacts\\Contacts.WebApiApplication\\Contacts.WebApiApplication.csproj",
+        "packagesPath": "C:\\Users\\MohammadPC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MohammadPC\\source\\repos\\Contacts\\Contacts.WebApiApplication\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\MohammadPC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\MohammadPC\\source\\repos\\Contacts\\Contacts.ApplicationServices\\Contacts.ApplicationServices.csproj": {
+                "projectPath": "C:\\Users\\MohammadPC\\source\\repos\\Contacts\\Contacts.ApplicationServices\\Contacts.ApplicationServices.csproj"
+              },
+              "C:\\Users\\MohammadPC\\source\\repos\\Contacts\\Contacts.Contracts\\Contacts.Contracts.csproj": {
+                "projectPath": "C:\\Users\\MohammadPC\\source\\repos\\Contacts\\Contacts.Contracts\\Contacts.Contracts.csproj"
+              },
+              "C:\\Users\\MohammadPC\\source\\repos\\Contacts\\Contacts.DAL\\Contacts.DAL.csproj": {
+                "projectPath": "C:\\Users\\MohammadPC\\source\\repos\\Contacts\\Contacts.DAL\\Contacts.DAL.csproj"
+              },
+              "C:\\Users\\MohammadPC\\source\\repos\\Contacts\\Contacts.DomainModel\\Contacts.DomainModel.csproj": {
+                "projectPath": "C:\\Users\\MohammadPC\\source\\repos\\Contacts\\Contacts.DomainModel\\Contacts.DomainModel.csproj"
+              },
+              "C:\\Users\\MohammadPC\\source\\repos\\Contacts\\Contacts.DomainServices\\Contacts.DomainServices.csproj": {
+                "projectPath": "C:\\Users\\MohammadPC\\source\\repos\\Contacts\\Contacts.DomainServices\\Contacts.DomainServices.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[2.2.3, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[4.0.1, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

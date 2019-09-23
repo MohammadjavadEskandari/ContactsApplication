@@ -1,0 +1,9 @@
+C:\Users\MohammadPC\source\repos\Contacts\Contacts.ApplicationServices\bin\Debug\netcoreapp2.2\Contacts.ApplicationServices.deps.json
+C:\Users\MohammadPC\source\repos\Contacts\Contacts.ApplicationServices\bin\Debug\netcoreapp2.2\Contacts.ApplicationServices.dll
+C:\Users\MohammadPC\source\repos\Contacts\Contacts.ApplicationServices\bin\Debug\netcoreapp2.2\Contacts.ApplicationServices.pdb
+C:\Users\MohammadPC\source\repos\Contacts\Contacts.ApplicationServices\obj\Debug\netcoreapp2.2\Contacts.ApplicationServices.csprojAssemblyReference.cache
+C:\Users\MohammadPC\source\repos\Contacts\Contacts.ApplicationServices\obj\Debug\netcoreapp2.2\Contacts.ApplicationServices.csproj.CoreCompileInputs.cache
+C:\Users\MohammadPC\source\repos\Contacts\Contacts.ApplicationServices\obj\Debug\netcoreapp2.2\Contacts.ApplicationServices.AssemblyInfoInputs.cache
+C:\Users\MohammadPC\source\repos\Contacts\Contacts.ApplicationServices\obj\Debug\netcoreapp2.2\Contacts.ApplicationServices.AssemblyInfo.cs
+C:\Users\MohammadPC\source\repos\Contacts\Contacts.ApplicationServices\obj\Debug\netcoreapp2.2\Contacts.ApplicationServices.dll
+C:\Users\MohammadPC\source\repos\Contacts\Contacts.ApplicationServices\obj\Debug\netcoreapp2.2\Contacts.ApplicationServices.pdb

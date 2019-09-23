@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Contacts.DAL\Contacts.DAL.csproj" />
+    <ProjectReference Include="..\Contacts.DomainModel\Contacts.DomainModel.csproj" />
+  </ItemGroup>
+
+</Project>

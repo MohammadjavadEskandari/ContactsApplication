@@ -1,0 +1,14 @@
+C:\Users\MohammadPC\source\repos\Contacts\Contacts.DAL\bin\Debug\netcoreapp2.2\Contacts.DAL.deps.json
+C:\Users\MohammadPC\source\repos\Contacts\Contacts.DAL\bin\Debug\netcoreapp2.2\Contacts.DAL.dll
+C:\Users\MohammadPC\source\repos\Contacts\Contacts.DAL\bin\Debug\netcoreapp2.2\Contacts.DAL.pdb
+C:\Users\MohammadPC\source\repos\Contacts\Contacts.DAL\obj\Debug\netcoreapp2.2\Contacts.DAL.csprojAssemblyReference.cache
+C:\Users\MohammadPC\source\repos\Contacts\Contacts.DAL\obj\Debug\netcoreapp2.2\Contacts.DAL.csproj.CoreCompileInputs.cache
+C:\Users\MohammadPC\source\repos\Contacts\Contacts.DAL\obj\Debug\netcoreapp2.2\Contacts.DAL.AssemblyInfoInputs.cache
+C:\Users\MohammadPC\source\repos\Contacts\Contacts.DAL\obj\Debug\netcoreapp2.2\Contacts.DAL.AssemblyInfo.cs
+C:\Users\MohammadPC\source\repos\Contacts\Contacts.DAL\obj\Debug\netcoreapp2.2\Contacts.DAL.dll
+C:\Users\MohammadPC\source\repos\Contacts\Contacts.DAL\obj\Debug\netcoreapp2.2\Contacts.DAL.pdb
+C:\Users\MohammadPC\source\repos\Contacts\Contacts.DAL\bin\Debug\netcoreapp2.2\Contacts.DAL.runtimeconfig.json
+C:\Users\MohammadPC\source\repos\Contacts\Contacts.DAL\bin\Debug\netcoreapp2.2\Contacts.DAL.runtimeconfig.dev.json
+C:\Users\MohammadPC\source\repos\Contacts\Contacts.DAL\bin\Debug\netcoreapp2.2\Contacts.DomainModel.dll
+C:\Users\MohammadPC\source\repos\Contacts\Contacts.DAL\bin\Debug\netcoreapp2.2\Contacts.DomainModel.pdb
+C:\Users\MohammadPC\source\repos\Contacts\Contacts.DAL\obj\Debug\netcoreapp2.2\Contacts.DAL.csproj.CopyComplete

@@ -1,0 +1,9 @@
+C:\Users\MohammadPC\source\repos\Contacts\Contacts.DomainModel\bin\Debug\netcoreapp2.2\Contacts.DomainModel.deps.json
+C:\Users\MohammadPC\source\repos\Contacts\Contacts.DomainModel\bin\Debug\netcoreapp2.2\Contacts.DomainModel.dll
+C:\Users\MohammadPC\source\repos\Contacts\Contacts.DomainModel\bin\Debug\netcoreapp2.2\Contacts.DomainModel.pdb
+C:\Users\MohammadPC\source\repos\Contacts\Contacts.DomainModel\obj\Debug\netcoreapp2.2\Contacts.DomainModel.csprojAssemblyReference.cache
+C:\Users\MohammadPC\source\repos\Contacts\Contacts.DomainModel\obj\Debug\netcoreapp2.2\Contacts.DomainModel.csproj.CoreCompileInputs.cache
+C:\Users\MohammadPC\source\repos\Contacts\Contacts.DomainModel\obj\Debug\netcoreapp2.2\Contacts.DomainModel.AssemblyInfoInputs.cache
+C:\Users\MohammadPC\source\repos\Contacts\Contacts.DomainModel\obj\Debug\netcoreapp2.2\Contacts.DomainModel.AssemblyInfo.cs
+C:\Users\MohammadPC\source\repos\Contacts\Contacts.DomainModel\obj\Debug\netcoreapp2.2\Contacts.DomainModel.dll
+C:\Users\MohammadPC\source\repos\Contacts\Contacts.DomainModel\obj\Debug\netcoreapp2.2\Contacts.DomainModel.pdb
