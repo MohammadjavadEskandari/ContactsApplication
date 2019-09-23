@@ -1,6 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Contacts.WebApiApplication"
   ],
+  "SelectedNode": "\\Contacts.WebApiApplication\\Contacts.WebApiApplication.csproj",
   "PreviewInSolutionExplorer": false
 }
